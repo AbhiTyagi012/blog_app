@@ -29,7 +29,7 @@ Tech Stack
 Installation
 ---------------------------
 1. Clone the repository:
-   git clone https://github.com/your-repo/blog-app.git
+   git clone https://github.com/AbhiTyagi012/blog_app.git
    cd blog-app
 
 2. Install dependencies:
