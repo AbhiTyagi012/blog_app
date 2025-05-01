@@ -30,9 +30,10 @@ Installation
 ---------------------------
 1. Clone the repository:
    git clone https://github.com/AbhiTyagi012/blog_app.git
+   
    cd blog-app
 
-2. Install dependencies:
+3. Install dependencies:
    npm install
 
 ---------------------------
